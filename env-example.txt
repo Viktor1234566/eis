@@ -1,0 +1,2 @@
+BOT_TOKEN=your_telegram_token
+SPREADSHEET_NAME=EBS Service GmbH - Звіти

@@ -1,1 +1,1 @@
-# eis
+# README файл для Telegram бота EBS Service GmbH
